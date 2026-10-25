@@ -62,6 +62,42 @@ cpp-library-management-system/
 ├── main.cpp
 └── README.md
 ```
+## 🧩 Sample Output Screenshots
+
+### 1st Output
+
+![img alt](https://github.com/Xnuj-rana/Library-Management-System/blob/250d0f82128ddbb32ccfbfe46d04c6b34f077297/Screenshot%202026-10-25%20202639.png)
+
+### 2nd Output
+
+![img alt](https://github.com/Xnuj-rana/Library-Management-System/blob/250d0f82128ddbb32ccfbfe46d04c6b34f077297/Screenshot%202026-10-25%20202701.png)
+
+### 3rd Output
+
+![img alt](https://github.com/Xnuj-rana/Library-Management-System/blob/250d0f82128ddbb32ccfbfe46d04c6b34f077297/Screenshot%202026-10-25%20202711.png)
+
+### 4th Output
+
+![img alt](https://github.com/Xnuj-rana/Library-Management-System/blob/250d0f82128ddbb32ccfbfe46d04c6b34f077297/Screenshot%202026-10-25%20202720.png)
+
+### 5th Output
+
+![img alt](https://github.com/Xnuj-rana/Library-Management-System/blob/250d0f82128ddbb32ccfbfe46d04c6b34f077297/Screenshot%202026-10-25%20202739.png)
+
+### 6th Output
+
+![img alt](https://github.com/Xnuj-rana/Library-Management-System/blob/250d0f82128ddbb32ccfbfe46d04c6b34f077297/Screenshot%202026-10-25%20202746.png)
+
+### 7th Output
+
+![img alt](https://github.com/Xnuj-rana/Library-Management-System/blob/250d0f82128ddbb32ccfbfe46d04c6b34f077297/Screenshot%202026-10-25%20202752.png)
+
+### 8th Output
+
+![img alt](https://github.com/Xnuj-rana/Library-Management-System/blob/250d0f82128ddbb32ccfbfe46d04c6b34f077297/Screenshot%202026-10-25%20202800.png)
+
+
+---
 
 ## ⚠️ Limitations
 

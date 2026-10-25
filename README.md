@@ -84,7 +84,7 @@ The objective of this project is to practise C++ fundamentals, including classes
 
 ## 👨‍💻 Author
 
-BCA Data Science Student
+Anuj Rana
 
 ## 📄 License
 
